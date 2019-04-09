@@ -1,6 +1,7 @@
+package hallow;
 
-public class Program {public static void main(String[] args) {
-    System.out.println("Hello World!");
+public class programm {
+	public static void main(String[] args) {
+        System.out.println("Hello World!");
 }
-
 }
